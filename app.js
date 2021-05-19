@@ -1,7 +1,6 @@
 const input = document.getElementById('input');
 const output = document.getElementById('output');
 const convertBtns = document.getElementById('convert-btns');
-
 convertBtns.addEventListener('click', onConvert);
 
 function onConvert(e) {
